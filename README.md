@@ -2,7 +2,7 @@
 ### I'm Dan Salomon, a full-stack developer with extensive front-end experience.
 
 - 🔭 I’m currently working on a cool stuff
-- 🌱 I’m currently learning DevOps tools like Jenkins and Terraform
+- 🌱 I’m currently learning DevOps tools like Jenkins, Kubernates and Terraform
 - 👯 I’m looking to collaborate on React Native libraries
 - ⚡ Fun fact: I come from the same planet as Goku. I like challenges, they make us better and stronger.
 
