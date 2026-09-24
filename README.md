@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a cool stuff
 - 🌱 I’m currently learning DevOps tools like Jenkins, Kubernates and Terraform
-- 👯 I’m looking to collaborate on React Native libraries
+- 👯 I’m looking to collaborate on React, Angular or Spring libraries
 - ⚡ Fun fact: I come from the same planet as Goku. I like challenges, they make us better and stronger.
 
 ### Languages and Tools:
